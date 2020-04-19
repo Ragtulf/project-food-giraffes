@@ -1,6 +1,6 @@
 # Food Review Website 🍣🇯🇵🇬🇧
 
-A team project creating a food review website that shows the top rated Japanese restaurants in London. We fetched the data using the Zomato API. The look of the website is inspired by Foodora. 
+A team project creating a food review website that shows the top rated Japanese restaurants in London using the Zomato API. The look of the website is inspired by Foodora. 
 
 ## Tech
 
